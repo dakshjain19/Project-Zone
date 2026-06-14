@@ -23,7 +23,7 @@
 
 #### Project Zone suggest users the projects they can create based on their skills
 
-![project-zone](https://socialify.git.ci/rockingrohit9639/project-zone/image?descriptionEditable=&font=Source%20Code%20Pro&language=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
+![project-zone](https://socialify.git.ci/dakshjain19/Project-Zone/image?descriptionEditable=&font=Source%20Code%20Pro&language=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
 
 # Problem 😧
 
